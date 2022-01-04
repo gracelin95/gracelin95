@@ -20,8 +20,8 @@
 <br/>  
 
 
-## My Skill Set 
-<div align = "center">
+## Technology Stack 
+
 <img align="left" img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/css3.png"/>
@@ -34,12 +34,12 @@
 <img align="left" img src="https://img.icons8.com/color/48/000000/heroku.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/webpack.png"/>
-<img align="center" img src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
-<img align ="center" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
-<img align ="center" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
+<img align="left" img src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
+<img align ="left" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
 
+<div align="center">
+<img align ="center" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 </div>
-  
 
 
 <br/>  
