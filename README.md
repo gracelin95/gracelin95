@@ -1,4 +1,4 @@
-### <div align="center">Hi, I'm Grace. 👋🏼</div>  
+## <div align="center">Hi, I'm Grace. 👋🏼</div>  
 
 <div>
 <img src ="https://github.com/gracelin95/gracelin95/blob/main/Grace%20Lin%20(1280%20x%20640%20px).png" align="center" style="width: 100%"  />
