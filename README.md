@@ -1,7 +1,10 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
+
+<div>
+<img src ="https://github.com/gracelin95/gracelin95/blob/main/Grace%20Lin.png" align="center" style="width: 100%"  />
+</div>
 
 ### <div align="center">I'm Grace, a Fullstack Software Engineer</div>  
   
