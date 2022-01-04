@@ -1,14 +1,10 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+### <div align="center">Hi, I'm Grace. 👋🏼</div>  
 
 <div>
-<img src ="https://github.com/gracelin95/gracelin95/blob/main/Grace%20Lin.png" align="center" style="width: 100%"  />
+<img src ="https://github.com/gracelin95/gracelin95/blob/main/Grace%20Lin%20(1280%20x%20640%20px).png" align="center" style="width: 100%"  />
 </div>
-
-### <div align="center">I'm Grace, a Fullstack Software Engineer</div>  
   
-
+## A Little About Me
 - 🔭 Some projects that I worked on are [Oishii](https://github.com/Winternet-is-coming/GraceShopper) and [Bizarr](https://github.com/04-cs-2109-compoutine/Bizarr)  
   
 
@@ -87,9 +83,6 @@
   
 
 <br/>  
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 <!---
 gracelin95/gracelin95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
