@@ -35,8 +35,8 @@
 <img align="left" img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/webpack.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
-<img img align ="left" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
+<img align ="left" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
+<img align ="left" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 
 </div>
   
