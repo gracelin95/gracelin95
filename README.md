@@ -12,8 +12,9 @@
   
 
 - 🌱 I’m currently learning Dynamic Programming and algorithms  
-  
 
+- 💻 Next Language Goal: TypeScript and Python 
+  
 - ⚡ Fun fact: I interviewed for Fullstack Academy Grace Hopper Program when I was 9 months pregnant and completed the intensive 17 week immersive bootcamp with a newborn baby  
   
 
